@@ -2,7 +2,7 @@ import {Text,View,StyleSheet,TouchableOpacity,StatusBar} from "react-native";
   import React, { Component } from "react";
   import { Entypo } from "@expo/vector-icons";
   
-  export class Menu extends Component {
+  export class MenuScreen extends Component {
     render() {
       return (
         <View style={{ backgroundColor: "black", height: "100%" }}>

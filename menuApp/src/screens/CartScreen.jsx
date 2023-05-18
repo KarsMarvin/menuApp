@@ -40,7 +40,9 @@ export default function CartScreen({ navigation }) {
             </View>
           </View>
         </View>
+      
       </View>
+      
       <TouchableOpacity style={styles.details}>
         <Text style={[styles.text, { fontSize: 16 }]}>more drinks</Text>
         <AntDesign
